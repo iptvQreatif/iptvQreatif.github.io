@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:133596
+#EXTINF:3.600000,
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf_00133596.ts
+#EXTINF:3.600000,
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf_00133597.ts
+#EXTINF:3.600000,
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf_00133598.ts
+#EXTINF:3.600000,
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf_00133599.ts
+#EXTINF:3.600000,
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf_00133600.ts
